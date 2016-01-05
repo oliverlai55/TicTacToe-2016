@@ -1,0 +1,66 @@
+body{
+	background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url(https://d13yacurqjgara.cloudfront.net/users/375867/screenshots/1480136/game-assets-game-background-sidescroller.png)  no-repeat top center fixed;
+	background-size: cover;
+}
+.title{
+	font-size:95px;
+	text-align: center;
+	font-family: arial;
+}
+
+.box-wrapper {
+	padding: 30px;
+	text-align: center;
+	margin: 0 auto;
+	max-width: 640px;
+	min-width: 320px;
+	width: 33%;
+	height:450px;
+}
+
+.box {
+	float: left;
+	width: 31%;
+	background-color: #989898;
+	margin:1%;
+	padding: 3% 0;
+	color: white;
+	font-size: 96px;
+	font-family: arial;
+
+}
+
+.box.empty{
+	color: transparent;
+}
+
+#message{
+	text-align: center;
+	font-size: 40px;
+	font-family: arial;
+}
+
+
+#new-game{
+	font-size:22px;
+	margin-left: 46%;
+	margin-top: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
